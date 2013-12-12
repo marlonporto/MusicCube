@@ -1,0 +1,598 @@
+TMusicCube
+v7
+r0
+t301338510.583819
+cCheck dependencies
+cProcessInfoPlistFile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist MusicCube-Info.plist
+cCompileXIB /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/MusicCube.app/description.png images/description.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/info.png images/info.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/instr.png images/instr.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/nums.png images/nums.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/sound.wav images/sound.wav
+cCpResource build/Debug-iphonesimulator/MusicCube.app/speaker.png images/speaker.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-72.png images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small-50.png images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small.png images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small@2x.png images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon.png images/Icon.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/Icon@2x.png images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/MusicCube.app/iTunesArtwork images/iTunesArtwork
+cProcessPCH /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch.gch MusicCube_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube normal i386
+cGenerateDSYMFile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+cTouch /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3B6A560000000000000132
+t1278962262
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BFF3B7600000000001C8900
+t1275018102
+s1870080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004BFF3B620000000000000A23
+t1275018082
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004BFF3B9500000000000064FD
+t1275018133
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004BFF3B950000000000001F45
+t1275018133
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004BFF3B9A00000000000244F0
+t1275018138
+s148720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004BFDFF0A000000000000094F
+t1274937098
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004BFDFF0A0000000000000A61
+t1274937098
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004BFDFF0A0000000000009369
+t1274937098
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004BFDFF0A0000000000003C4A
+t1274937098
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004BFDFF120000000000019D60
+t1274937106
+s105824
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C04586B00000000000000C4
+t1275353195
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004C0458E90000000000151D30
+t1275353321
+s1383728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.h
+c000000004C227A1E00000000000010C7
+t1277327902
+s4295
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"MusicCubePlayback.h"
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m
+c000000004C3CC1100000000000005D15
+t1279050000
+s23829
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"EAGLView.h"
+i"teapot.h"
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.h
+c000000004C227A1E0000000000000B21
+t1277327902
+s2849
+i<UIKit/UIKit.h>
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m
+c000000004C227A1E0000000000000C14
+t1277327902
+s3092
+i"MusicCubeAppDelegate.h"
+i"EAGLView.h"
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.h
+c000000004C227A1E0000000000000C96
+t1277327902
+s3222
+i<UIKit/UIKit.h>
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m
+c000000004C227A1E000000000000214A
+t1277327902
+s8522
+i"MusicCubePlayback.h"
+i"MyOpenALSupport.h"
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MyOpenALSupport.h
+c000000004C227A1E0000000000001701
+t1277327902
+s5889
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/teapot.h
+c000000004C227A1E000000000002D3A8
+t1277327902
+s185256
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/MusicCube_Prefix.pch
+c000000004AB17DEC00000000000009E4
+t1253146092
+s2532
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+t1279050001
+s646
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM
+t1279050001
+s102
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon-72.png
+t1278964839
+s1063
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon-Small-50.png
+t1278964839
+s992
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon-Small.png
+t1278964839
+s918
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon-Small@2x.png
+t1278964839
+s1010
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon.png
+t1278964839
+s1007
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Icon@2x.png
+t1278964839
+s1252
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist
+t1278964839
+s829
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+t1279050001
+s94220
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/PkgInfo
+t1278964839
+s8
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/description.png
+t1278964839
+s22682
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/en.lproj/MainWindow.nib
+t1278964839
+s1296
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/iTunesArtwork
+t1278964839
+s5188
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/info.png
+t1278964839
+s4409
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/instr.png
+t1278964839
+s4355
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/nums.png
+t1278964839
+s4677
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/sound.wav
+t1278964839
+s444572
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/speaker.png
+t1278964839
+s5895
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o
+t1279050001
+s118524
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCube.LinkFileList
+c000000004C3B7467000000000000023D
+t1278964839
+s573
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o
+t1278964840
+s49516
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o
+t1278964840
+s33076
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o
+t1278964840
+s6320
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib
+c000000004C1F8A130000000000002B94
+t1277135379
+s11156
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-72.png
+c000000004C2250260000000000000427
+t1277317158
+s1063
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small-50.png
+c000000004C22502600000000000003E0
+t1277317158
+s992
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small.png
+c000000004C2250260000000000000396
+t1277317158
+s918
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small@2x.png
+c000000004C22502600000000000003F2
+t1277317158
+s1010
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon.png
+c000000004C22502600000000000003EF
+t1277317158
+s1007
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon@2x.png
+c000000004C22502600000000000004E4
+t1277317158
+s1252
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/description.png
+c000000004C1F8A13000000000000589A
+t1277135379
+s22682
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/iTunesArtwork
+c000000004C2250260000000000001444
+t1277317158
+s5188
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/info.png
+c000000004C1F8A130000000000001139
+t1277135379
+s4409
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/instr.png
+c000000004C1F8A130000000000001103
+t1277135379
+s4355
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/nums.png
+c000000004C1F8A130000000000001245
+t1277135379
+s4677
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/sound.wav
+c000000004C1F8A13000000000006C89C
+t1277135379
+s444572
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/speaker.png
+c000000004C1F8A130000000000001707
+t1277135379
+s5895
+
+N/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m
+c000000004AB17DEC0000000000000A68
+t1253146092
+s2664
+i<UIKit/UIKit.h>
+
+N/var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch.gch
+t1278964840
+s15232016
+
+NMusicCube-Info.plist
+c000000004C22502600000000000004EB
+t1277317158
+s1259
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301338510#301338510#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300742801.071383
+e300742801.297127
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m300742801#300742801#0(0"0(0#0#66"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m8619443328#2056"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/include -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/EAGLView.m -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/EAGLView.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300657640.101709
+e300657640.180955
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m300657640#300657640#0(0"0(0#0#78"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m8606878880#2080"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/include -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubeAppDelegate.m -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubeAppDelegate.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300657640.181084
+e300657640.289565
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m300657640#300657640#0(0"0(0#0#75"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m8598880128#2074"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/include -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/Classes/MusicCubePlayback.m -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCubePlayback.o0#
+
+CCompileC build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s300657640.100687
+e300657640.151258
+r1
+xCompileC
+xbuild/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m300657640#300657640#0(0"0(0#0#54"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m8607275648#2040"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/include -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -include /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/main.m -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib
+s300657639.207381
+e300657639.575586
+r1
+xCompileXIB
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib300657639#300657639#0(0"0(0#0#71"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib8598741568#617"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/en.lproj/MainWindow.nib /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-72.png images/Icon-72.png
+s300657639.218051
+e300657639.240284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon-72.png
+ximages/Icon-72.png
+lSLF07#2@23"Copy images/Icon-72.png300657639#300657639#0(0"0(0#0#66"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-72.png8606889824#491"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-72.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small-50.png images/Icon-Small-50.png
+s300657639.219628
+e300657639.238766
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon-Small-50.png
+ximages/Icon-Small-50.png
+lSLF07#2@29"Copy images/Icon-Small-50.png300657639#300657639#0(0"0(0#0#72"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small-50.png8604297312#497"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small-50.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small.png images/Icon-Small.png
+s300657639.221226
+e300657639.236521
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon-Small.png
+ximages/Icon-Small.png
+lSLF07#2@26"Copy images/Icon-Small.png300657639#300657639#0(0"0(0#0#69"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small.png8603929568#494"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon-Small@2x.png images/Icon-Small@2x.png
+s300657639.223521
+e300657639.243488
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon-Small@2x.png
+ximages/Icon-Small@2x.png
+lSLF07#2@29"Copy images/Icon-Small@2x.png300657639#300657639#0(0"0(0#0#72"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small@2x.png8599098656#497"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon-Small@2x.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon.png images/Icon.png
+s300657639.226694
+e300657639.242969
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon.png
+ximages/Icon.png
+lSLF07#2@20"Copy images/Icon.png300657639#300657639#0(0"0(0#0#63"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon.png8598631424#488"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/Icon@2x.png images/Icon@2x.png
+s300657639.233543
+e300657639.243917
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/Icon@2x.png
+ximages/Icon@2x.png
+lSLF07#2@23"Copy images/Icon@2x.png300657639#300657639#0(0"0(0#0#66"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon@2x.png8597970368#491"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/Icon@2x.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/description.png images/description.png
+s300657639.209042
+e300657639.223452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/description.png
+ximages/description.png
+lSLF07#2@27"Copy images/description.png300657639#300657639#0(0"0(0#0#70"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/description.png8608111072#495"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/description.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/iTunesArtwork images/iTunesArtwork
+s300657639.234804
+e300657639.244373
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/iTunesArtwork
+ximages/iTunesArtwork
+lSLF07#2@25"Copy images/iTunesArtwork300657639#300657639#0(0"0(0#0#68"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/iTunesArtwork8597901248#493"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/iTunesArtwork /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/info.png images/info.png
+s300657639.209819
+e300657639.238610
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/info.png
+ximages/info.png
+lSLF07#2@20"Copy images/info.png300657639#300657639#0(0"0(0#0#63"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/info.png8607935424#488"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/info.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/instr.png images/instr.png
+s300657639.211366
+e300657639.226618
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/instr.png
+ximages/instr.png
+lSLF07#2@21"Copy images/instr.png300657639#300657639#0(0"0(0#0#64"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/instr.png8607527136#489"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/instr.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/nums.png images/nums.png
+s300657639.212960
+e300657639.233378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/nums.png
+ximages/nums.png
+lSLF07#2@20"Copy images/nums.png300657639#300657639#0(0"0(0#0#63"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/nums.png8607325376#488"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/nums.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/sound.wav images/sound.wav
+s300657639.214723
+e300657639.250717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/sound.wav
+ximages/sound.wav
+lSLF07#2@21"Copy images/sound.wav300657639#300657639#0(0"0(0#0#64"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/sound.wav8607230464#489"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/sound.wav /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CCpResource build/Debug-iphonesimulator/MusicCube.app/speaker.png images/speaker.png
+s300657639.217193
+e300657639.233483
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MusicCube.app/speaker.png
+ximages/speaker.png
+lSLF07#2@23"Copy images/speaker.png300657639#300657639#0(0"0(0#0#66"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/speaker.png8606977696#491"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/images/speaker.png /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
+CGenerateDSYMFile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+s300742801.319960
+e300742801.335288
+r1
+xGenerateDSYMFile
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/MusicCube.app.dSYM build/Debug-iphonesimulator/MusicCube.app/MusicCube300742801#300742801#0(0"0(0#0#99"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube8603169184#416"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app.dSYM0#
+
+CLd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube normal i386
+s300742801.297211
+e300742801.319885
+r1
+xLd
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube
+xnormal
+xi386
+lSLF07#2@104"Link /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube300742801#300742801#0(0"0(0#0#0"8616639968#1039"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -filelist /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/Objects-normal/i386/MusicCube.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework OpenGLES -framework QuartzCore -framework AudioToolbox -framework CoreGraphics -framework OpenAL -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/MusicCube0#
+
+CProcessInfoPlistFile /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist MusicCube-Info.plist
+s300657639.195964
+e300657639.207307
+r1
+xProcessInfoPlistFile
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist
+xMusicCube-Info.plist
+lSLF07#2@28"Process MusicCube-Info.plist300657639#300657639#0(0"0(0#0#68"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/MusicCube-Info.plist8600141216#512"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MusicCube-Info.plist -genpkginfo /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app/Info.plist0#
+
+CProcessPCH /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch.gch MusicCube_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s300657639.575682
+e300657640.100587
+r1
+xProcessPCH
+x/var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch.gch
+xMusicCube_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MusicCube_Prefix.pch300657639#300657640#0(0"0(0#0#68"/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/MusicCube_Prefix.pch8603900832#1921"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-generated-files.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-own-target-headers.hmap -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-all-target-headers.hmap -iquote /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/MusicCube-project-headers.hmap -F/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/include -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources/i386 -I/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/MusicCube.build/Debug-iphonesimulator/MusicCube.build/DerivedSources -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/MusicCube_Prefix.pch -o /var/folders/ji/jixN7bqbH9OV221k2Qrmw++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MusicCube_Prefix-bvuortwcazkcrtckxbqnnuqkxnhx/MusicCube_Prefix.pch.gch0#
+
+CTouch /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+s300742801.335359
+e300742801.337490
+r1
+xTouch
+x/Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app
+lSLF07#2@95"Touch /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app300742801#300742801#0(0"0(0#0#0"8619629728#298"    cd /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tvitale/AppiPhone/AppsAnalisar/MusicCube/build/Debug-iphonesimulator/MusicCube.app0#
+
